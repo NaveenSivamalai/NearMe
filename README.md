@@ -33,11 +33,11 @@ Write the needed HTML code.
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="571" width="1280">
 <map name="MyCity">
-<area shape="rectangle" coords="372,228,458,263" href="/static/html/temple.html" title="Arunachaleswarar Temple">
-<area shape="rectangle" coords="109,257,229,290" href="/static/html/theatre.html" title="Sakthi Theatre">
-<area shape="rectangle" coords="455,390,617,508" href="/static/html/grt.html" title="GRT Jewellers">
-<area shape="rectangle" coords="537,320,682,412" href="/static/html/avr.html" title="AVR Swarna Mahal Jewellers">
-<area shape="rectangle" coords="664,312,870,412" href="/static/html/hotel.html" title="Hotel Kanna">
+<area shape="rectangle" coords="372,228,458,263" href="temple.html" title="Arunachaleswarar Temple">
+<area shape="rectangle" coords="109,257,229,290" href="theatre.html" title="Sakthi Theatre">
+<area shape="rectangle" coords="455,390,617,508" href="grt.html" title="GRT Jewellers">
+<area shape="rectangle" coords="537,320,682,412" href="avr.html" title="AVR Swarna Mahal Jewellers">
+<area shape="rectangle" coords="664,312,870,412" href="hotel.html" title="Hotel Kanna">
 </map>
 </center>
 </body>
