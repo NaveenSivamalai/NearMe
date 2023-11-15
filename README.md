@@ -167,15 +167,19 @@ There is no dearth of good cinemas in Tiruvannamalai. And, the theatre in Tiruva
 ![out1](https://github.com/NaveenSivamalai/NearMe/assets/123792574/25322047-c5a0-4ab0-9552-d250045b016b)
 
 
-![OUTPUT](./out2.png)
+![Screenshot (112)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/2db6b41b-2cd7-450a-90d9-b0d73cec401d)
 
-![OUTPUT](./out3.png)
 
-![OUTPUT](./out4.png)
+![Screenshot (113)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/7dbedd23-67bf-4d35-9c5d-8bfc916ff8ec)
 
-![OUTPUT](./out5.png)
+![Screenshot (114)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/2f65d100-1b50-4285-bb1c-52c26a22906a)
 
-![OUTPUT](./out6.png)
+
+![Screenshot (115)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/abe67788-f7e0-4a9f-a913-6a4ec6eac114)
+
+
+![Screenshot (116)](https://github.com/NaveenSivamalai/NearMe/assets/123792574/28005b7f-6c74-4444-b216-5faafc97ec5c)
+
 
 ## HTML Validator:
 ![HTML Validator](./valid.png)
