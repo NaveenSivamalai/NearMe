@@ -28,7 +28,7 @@ Write the needed HTML code.
 <font color="red"><b>Tiruvannamalai - Temple City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>SURYA T  (22009136)</b></font>
+<font color="blue"><b>NAVEEN S(212222110030)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="571" width="1280">
