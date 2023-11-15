@@ -164,7 +164,8 @@ There is no dearth of good cinemas in Tiruvannamalai. And, the theatre in Tiruva
 ```
 
 ## Output:
-![OUTPUT](./out1.png)
+![out1](https://github.com/NaveenSivamalai/NearMe/assets/123792574/25322047-c5a0-4ab0-9552-d250045b016b)
+
 
 ![OUTPUT](./out2.png)
 
